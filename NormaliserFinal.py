@@ -2,7 +2,7 @@
 The concept for this code was taken from - https://github.com/XiaoMutt/XiaoImageJApp. 
 The python rewrite for the Dr Tim Davies lab was primarily completed by:
 Abdurrahmaan Iqbal - https://github.com/abmyii
-Sam Bennett - Durham University
+Sam Bennett - https://github.com/Sjb4243
 """
 from tkinter.filedialog import askopenfile
 from tkinter.simpledialog import askinteger
